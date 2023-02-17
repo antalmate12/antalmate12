@@ -1,3 +1,6 @@
+![antalmate12's GitHub Stats](https://github-readme-stats.vercel.app/api?username=antalmate12&title_color=000&icon_color=8B959E&text_color=4c4c4c&bg_color=fff)
+
+
 ### Hi there 👋
 
 <!--
