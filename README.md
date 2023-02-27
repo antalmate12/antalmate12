@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-## My Tech Stack
+## My Skills
 ![ANGULAR](https://img.shields.io/badge/ANGULAR-dc0030.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![REACT](https://img.shields.io/badge/REACT-00d8ff.svg?style=for-the-badge&logo=react&logoColor=white)
 ![NEXT](https://img.shields.io/badge/NEXT-black.svg?style=for-the-badge&logo=react&logoColor=white)
