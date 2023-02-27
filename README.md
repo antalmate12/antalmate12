@@ -1,6 +1,6 @@
 
 
-# Hi there 👋
+# Hi there 🐧
 
 ## My Skills
 ![ANGULAR](https://img.shields.io/badge/ANGULAR-dc0030.svg?style=for-the-badge&logo=angular&logoColor=white)
