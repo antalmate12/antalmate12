@@ -15,7 +15,7 @@
 ![antalmate12's GitHub Stats](https://github-readme-stats.vercel.app/api?username=antalmate12&title_color=000&icon_color=8B959E&text_color=4c4c4c&bg_color=fff)
 
 ## My Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antalmate12&title_color=000&theme=light&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antalmate12&title_color=000&theme=light&show_icons=true&hide=c#)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
