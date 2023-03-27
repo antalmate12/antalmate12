@@ -1,6 +1,10 @@
+<img src="mate-mac-upscaled.png"  width="300" height="auto">
 
+# Hi there, I'm Mate 🐧
 
-# Hi there 🐧
+I'm a software engineer from Hungary. I'm passionate about building great software and I'm always looking for new challenges.
+
+---
 
 ## My Skills
 ![ANGULAR](https://img.shields.io/badge/ANGULAR-dc0030.svg?style=for-the-badge&logo=angular&logoColor=white)
