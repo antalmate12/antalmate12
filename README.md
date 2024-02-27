@@ -21,11 +21,11 @@ I'm a software engineer from Hungary. I'm passionate about building great softwa
 ## My Skills
 ![ANGULAR](https://img.shields.io/badge/ANGULAR-dc0030.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![REACT](https://img.shields.io/badge/REACT-00d8ff.svg?style=for-the-badge&logo=react&logoColor=white)
-![NEXT](https://img.shields.io/badge/NEXT-black.svg?style=for-the-badge&logo=react&logoColor=white)
+![NEXTJS](https://img.shields.io/badge/NEXTJS-black.svg?style=for-the-badge&logo=react&logoColor=white)
 ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-fc4703.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-cf649a.svg?style=for-the-badge&logo=sass&logoColor=white)
-
+![TAILWIND](https://img.shields.io/badge/TAILWIND-38bdf8.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ## My GitHub Stats
 ![antalmate12's GitHub Stats](https://github-readme-stats.vercel.app/api?username=antalmate12&title_color=000&icon_color=8B959E&text_color=4c4c4c&bg_color=fff)
