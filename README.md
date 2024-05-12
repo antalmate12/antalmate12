@@ -26,7 +26,7 @@ I'm a software engineer from Hungary. I'm passionate about building great softwa
 ![SCSS](https://img.shields.io/badge/SCSS-cf649a.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![TAILWIND](https://img.shields.io/badge/TAILWIND-38bdf8.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=antalmate12)](https://github.com/antalmate12/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=antalmate12)](https://github.com/antalmate12)
 
 
 ## My GitHub Stats
