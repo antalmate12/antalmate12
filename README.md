@@ -4,7 +4,6 @@
 
 I'm a software engineer from Hungary. I'm passionate about building great software and I'm always looking for new challenges.
 
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -26,6 +25,9 @@ I'm a software engineer from Hungary. I'm passionate about building great softwa
 ![HTML5](https://img.shields.io/badge/HTML-fc4703.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-cf649a.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![TAILWIND](https://img.shields.io/badge/TAILWIND-38bdf8.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=antalmate12)](https://github.com/antalmate12/github-profile-trophy)
+
 
 ## My GitHub Stats
 ![antalmate12's GitHub Stats](https://github-readme-stats.vercel.app/api?username=antalmate12&title_color=000&icon_color=8B959E&text_color=4c4c4c&bg_color=fff)
